@@ -1,4 +1,4 @@
-# 🚀 YourLibraryName
+# 🚀 BreezeUI
 
 A modern utility-first CSS framework inspired by Tailwind — built for speed, flexibility, and developer happiness.
 
