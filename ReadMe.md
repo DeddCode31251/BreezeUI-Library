@@ -1,16 +1,6 @@
-# 🚀 BreezeUI
+#  BreezeUI
 
 A modern utility-first CSS framework inspired by Tailwind — built for speed, flexibility, and developer happiness.
-
----
-
-## ⚡ Features
-
-* 🎯 Utility-first workflow (no more writing custom CSS)
-* ⚡ Fast and lightweight
-* 🧩 Easy to customize
-* 📱 Responsive design out of the box
-* 🎨 Clean and modern class system
 
 ---
 
@@ -22,7 +12,7 @@ A modern utility-first CSS framework inspired by Tailwind — built for speed, f
 
 ---
 
-## 🧠 Why This Project?
+## Why This Project?
 
 This project was built to:
 
@@ -32,7 +22,7 @@ This project was built to:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * JavaScript
 * CSS
@@ -40,7 +30,7 @@ This project was built to:
 ---
 
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -51,12 +41,12 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
+## License
 
 MIT License
 
 ---
 
-## 💀 Author
+## Author
 
 Made by **Deadcode**
