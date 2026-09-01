@@ -4,7 +4,7 @@ A modern utility-first CSS framework inspired by Tailwind — built for speed, f
 
 ---
 
-## 📸 Preview
+## Preview
 
 <img width="1000" height="414" alt="ReadMe md (1)" src="https://github.com/user-attachments/assets/30652701-9bd1-4eea-9f78-fc20030e2e29" />
 
